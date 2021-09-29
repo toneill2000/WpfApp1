@@ -28,7 +28,7 @@
             </Grid.RowDefinitions>
             <StackPanel Margin="70,0,70,0">
                 <Button x:Name="btnListEntries" Content="List All Entries" MinHeight="65" FontSize="18" Margin="0,0,0,30" Click="btnListEntries_Click"/>
-                <Button x:Name="btnAddEntry" Content="Add Entry" MinHeight="65" FontSize="18" Margin="0,0,0,30" Click="btnAddEntry_Click"/>
+                <Button x:Name="btnAddEntry" Content="Add Entries" MinHeight="65" FontSize="18" Margin="0,0,0,30" Click="btnAddEntry_Click"/>
                 <Button x:Name="btnUpdateEntry" Content="Update Entry" MinHeight="65" FontSize="18" Margin="0,0,0,30" Click="btnUpdateEntry_Click"/>
                 <Button x:Name="btnDeleteEntry" Content="Delete Entry" MinHeight="65" FontSize="18" Margin="0,0,0,30" Click="btnDeleteEntry_Click"/>
                 <Button x:Name="btnExit" Content="Exit" MinHeight="65" FontSize="18" Margin="0,0,0,30" Click="btnExit_Click"/>
